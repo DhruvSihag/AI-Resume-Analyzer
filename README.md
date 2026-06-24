@@ -34,7 +34,7 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/DhruvSihag/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
+    <br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
@@ -230,68 +230,4 @@ If you want the full report of project
 - <a href="https://www.academia.edu/32543544/Resume_Parser_with_Natural_Language_Processing">Resume Parser with Natural Language Processing</a>
 - <a href="https://github.com/OmkarPathak/pyresparser">pyresparser</a>
 
-## Preview 👽
 
-### Client Side
-
-**Main Screen**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
-
-**Resume Analysis**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
-
-**Skill Recommendation**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
-
-**Course Recommendation**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
-
-**Tips and Overall Score**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
-
-**Video Recommendation**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/user/6-recom.png?raw=true)
-
-### Feedback
-
-**Feedback Form**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/feedback/1-form.png?raw=true)
-
-**Overall Rating Analysis and Comment History**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
-
-### Admin
-
-**Login**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
-
-**User Count and it's data**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/admin/2-user-data.png?raw=true)
-
-**Exported csv file**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/admin/3-user-datacsv.png?raw=true)
-
-**Feedback Data**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
-
-**Pie Chart Analytical Representation of clusters**
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true)
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
-
-![Screenshot](https://github.com/DhruvSihag/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
-
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://github.com/DhruvSihag">Dhruv Sihag</a>
